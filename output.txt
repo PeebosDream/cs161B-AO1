@@ -1,0 +1,50 @@
+Welcome to my foodcart program!
+
+What would you like to do today?
+Pick an option from below:
+1. Place an order
+2. Quit
+
+>>
+Invalid option! Please choose 1-2!
+
+>>
+Enter the name of your Item: Enter the cost of your item: $Do you want another item? (y/n): 
+Enter the name of your Item: Enter the cost of your item: $Do you want another item? (y/n): 
+Enter the name of your Item: Enter the cost of your item: $Do you want another item? (y/n): 
+Invalid option! Please choose y/n!
+>>
+Your total is: $32.00
+
+Enter the amount of tip you want to add $: 
+Your total is: $35.50
+You get a 5 % discount!
+Your discount is: $1.78
+Your final total is: $33.73
+
+What would you like to do today?
+Pick an option from below:
+1. Place an order
+2. Quit
+
+>>
+Enter the name of your Item: Enter the cost of your item: $Do you want another item? (y/n): 
+Enter the name of your Item: Enter the cost of your item: $Do you want another item? (y/n): 
+Enter the name of your Item: Enter the cost of your item: $Do you want another item? (y/n): 
+Invalid option! Please choose y/n!
+>>
+Your total is: $47.00
+
+Enter the amount of tip you want to add $: 
+Your total is: $57.00
+You get a 10 % discount!
+Your discount is: $5.70
+Your final total is: $51.30
+
+What would you like to do today?
+Pick an option from below:
+1. Place an order
+2. Quit
+
+>>
+Thank you for using my program!

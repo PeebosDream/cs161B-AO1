@@ -1,0 +1,26 @@
+9
+1
+Pasta
+15.75
+y
+Bowl
+12.75
+y
+Soda
+3.50
+x
+n
+3.50
+1
+Fajita Bowl
+20.75
+y
+Vietnamese plate
+22.75
+y
+Soda
+3.50
+x
+n
+10.00
+2
